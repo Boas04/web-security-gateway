@@ -1,0 +1,12 @@
+{
+  "ruang-warga": {
+    "address": "172.30.10.10",
+    "port": 8000,
+    "health_path": "/api/health"
+  },
+  "katalog-lab": {
+    "address": "172.30.10.20",
+    "port": 8000,
+    "health_path": "/api/health"
+  }
+}

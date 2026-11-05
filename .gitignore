@@ -1,0 +1,19 @@
+# Local credentials and runtime data (never publish)
+**/.env
+**/.env.*
+!**/.env.example
+**/secrets/
+**/data/
+**/*.db
+**/*.db-*
+**/*.sqlite*
+**/*.log
+**/.venv/
+**/__pycache__/
+**/*.py[cod]
+**/test-results/
+**/waf/inspector
+**/waf/inspector.exe
+ruang-guard-evaluation-*/
+.DS_Store
+Thumbs.db
